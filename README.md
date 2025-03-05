@@ -4,3 +4,5 @@
 #feature-a
 
 #fix-b
+
+feature -B
