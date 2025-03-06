@@ -8,3 +8,5 @@
 feature -B
  
 issue
+
+close
